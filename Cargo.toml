@@ -1,0 +1,9 @@
+[package]
+name = "orbaudio"
+version = "0.1.0"
+authors = ["Jeremy Soller <jackpot51@gmail.com>"]
+
+[dependencies]
+claxon = { git = "https://github.com/jackpot51/claxon.git" }
+hound = "3.1"
+sdl2 = "0.30"
